@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/peliculas-site/static/css/main.901d813a.css",
+    "main.js": "/peliculas-site/static/js/main.d6fd170e.js",
+    "static/media/placeholder.jpg": "/peliculas-site/static/media/placeholder.15a0dc7e8735236c193e.jpg",
+    "index.html": "/peliculas-site/index.html",
+    "main.901d813a.css.map": "/peliculas-site/static/css/main.901d813a.css.map",
+    "main.d6fd170e.js.map": "/peliculas-site/static/js/main.d6fd170e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.901d813a.css",
+    "static/js/main.d6fd170e.js"
+  ]
+}
