@@ -1,0 +1,24 @@
+.title {
+    text-align: center;
+    font-size: 32px;
+     /* text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px lightseagreen, 0 0 40px lightseagreen,
+        0 0 50px lightseagreen, 0 0 60px lightseagreen, 0 0 70px lightseagreen;  */
+        font-family:  'Orbitron', sans-serif;
+    
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 75px;
+}
+@media (max-width:768px){
+    .header{
+        justify-content: center;
+        width: 70%;
+    }
+}
