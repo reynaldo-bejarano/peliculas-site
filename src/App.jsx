@@ -10,7 +10,7 @@ export function Principal() {
     return (
         <Router>
             <header className={styles.header}>
-                <div><Link to="/"> <Header /> </Link> </div> 
+                <div><Link to="/peliculas-site/"> <Header /> </Link> </div> 
                 <div>< HeaderInput/></div>
             </header>
             <main>
@@ -18,7 +18,7 @@ export function Principal() {
                     <Route exact path="/movies/:movieid"> 
                         <MovieDetails />
                     </Route>
-                    <Route path="/"> 
+                    <Route path="/peliculas-site/"> 
                         <LandingPage />  
                     </Route>
                 </Switch>
